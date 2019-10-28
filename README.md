@@ -1,8 +1,10 @@
 # Rack Responses Lab
 
-Let's create a quick time appropriate greeter application
+Let's create a quick time-appropriate greeter application
 
 ## Instructions
+
+Edit your code in `app/application.rb`.
 
 Create your application with the following conditions: 
 
