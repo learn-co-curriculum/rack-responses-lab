@@ -12,5 +12,4 @@ Create your application with the following conditions:
   2. If it's after noon, greet the user with "Good Afternoon!". Remember that
      getting the time may return results in 24 hour time! Anytime on or after 12
      is the afternoon.
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/rack-responses-lab'>Rack Responses Lab</a> on Learn.co and start learning to code for free.</p>
+     
